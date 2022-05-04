@@ -1,0 +1,9 @@
+{
+  stakedTokens(address:"0xf08806EEB33b2bA1b2AEA3B1fEB069d2828F1eFc"),
+  stakingRewards(address:"0xf08806EEB33b2bA1b2AEA3B1fEB069d2828F1eFc"),
+  userData {
+    address
+    rewards
+    stakedToken
+  }
+}
